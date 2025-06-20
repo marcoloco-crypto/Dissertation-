@@ -343,14 +343,6 @@ The truth is, the universe is far more extraordinary than we have yet dared to i
 % For Overleaf, you might still want to put these into a separate references.bib file
 % using their file explorer, but this works for direct copy-paste.
 \begin{filecontents*}{references.bib}
-@article{GoldenGravityConceptual2025,
-  author  = {Rocha, Marco},
-  title   = {Golden Gravity: The Emergent Spacetime Quantum-Coherence Theory (ESQET)},
-  journal = {arXiv preprint arXiv:XXXX.YYYYY (Conceptual)}, % Replace with actual arXiv/journal info
-  year    = {2025},
-  note    = {This entry refers to the conceptual paper outlining the theory.}
-}
-
 @misc{RochaGitHub2025,
   author    = {Rocha, Marco},
   title     = {GoldenGravity: Developing a new quantum gravity theory with emergent spacetime!},
